@@ -1,3 +1,5 @@
+from sys import random
+
 class Hand(object):
 	def __init__(self):
 		self.HandCount = 0
